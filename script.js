@@ -10,9 +10,6 @@ const diceEl = document.querySelector('.dice');
 const btnNew = document.querySelector('.btn--new');
 const btnRoll = document.querySelector('.btn--roll');
 const btnHold = document.querySelector('.btn--hold');
-const btnHold = document.querySelector('.btn--holdgggggggg');
-
-const btnHold = document.querySelector('.btn--holddddddd544444');
 
 //starting conditions
 // score0El.textContent = 0;
